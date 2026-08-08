@@ -16,7 +16,7 @@ This analysis is not intended to constitute novel biological research or validat
 - Version control and documentation with Git and GitHub
 
 ## Motivation
-This project explores ligand-receptor communication patterns between neurons and glial cells (astrocytes, microglia, oligodendrocytes, and oligodendrocyte precursor cells) in young vs. aged mouse brain tissue, as an independent exploration of the kind of connectivity questions studied by sequencing-based approaches like Connectome-seq.
+This project explores ligand-receptor communication patterns between neurons and glial cells (astrocytes, microglia, oligodendrocytes, and oligodendrocyte precursor cells) in young vs. aged mouse brain tissue. It was motivated by a broader interest in how sequencing-based approaches can be used to study cell-cell connectivity and communication.
 
 ## Data
 Allen, Blosser, Sullivan, Dulac & Zhuang, "Molecular and spatial signatures of mouse brain aging at single-cell resolution," Cell (2022).
